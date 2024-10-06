@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 <feed xmlns="https://www.w3.org/">
     <id>https://Small-cart.github.io</id>
     <title>TGX</title>
