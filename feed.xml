@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>TGX</title>
+    <link href="http://www.gczxtgx.top/feed.xml" rel="self" />
+    <link href="http://www.gczxtgx.top" />
+    <updated>2024-10-07T10:56:20+08:00</updated>
+    <author>
+        <name>zza</name>
+    </author>
+    <id>http://www.gczxtgx.top</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>zza</name>
+        </author>
+        <link href="http://www.gczxtgx.top/test.html"/>
+        <id>http://www.gczxtgx.top/test.html</id>
+
+        <updated>2024-10-07T10:56:20+08:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
