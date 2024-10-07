@@ -3,7 +3,7 @@
     <title>TGX</title>
     <link href="https://www.gczxtgx.top/feed.xml" rel="self" />
     <link href="https://www.gczxtgx.top" />
-    <updated>2024-10-07T10:13:03+08:00</updated>
+    <updated>2024-10-07T10:32:00+08:00</updated>
     <author>
         <name>zza</name>
     </author>
@@ -25,9 +25,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    # [九省联考 2018] 一双木棋 chess
+                <div><script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<p># [九省联考 2018] 一双木棋 chess
 <br>
 <br>## 题目描述
 <br>
@@ -100,8 +100,7 @@
 <br>![](https://cdn.luogu.com.cn/upload/pic/16879.png)
 <br>
 <br>- 对于编号为奇数的测试点，保证 $b_{i, j} = 0$。
-<br>- 对于全部的测试点，保证 $1 \leq n, m \leq 10$，$0 \leq a_{i, j}, b_{i, j} \leq 10^5$。
-  </p>
+<br>- 对于全部的测试点，保证 $1 \leq n, m \leq 10$，$0 \leq a_{i, j}, b_{i, j} \leq 10^5$。</p></div>
             ]]>
         </content>
     </entry>
