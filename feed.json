@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "TGX",
     "description": "",
-    "home_page_url": "http://www.gczxtgx.top",
-    "feed_url": "http://www.gczxtgx.top/feed.json",
+    "home_page_url": "https://www.gczxtgx.top",
+    "feed_url": "https://www.gczxtgx.top/feed.json",
     "user_comment": "",
     "author": {
         "name": "zza"
     },
     "items": [
         {
-            "id": "http://www.gczxtgx.top/test/",
-            "url": "http://www.gczxtgx.top/test/",
+            "id": "https://www.gczxtgx.top/test/",
+            "url": "https://www.gczxtgx.top/test/",
             "title": "test",
             "summary": "test",
             "content_html": "<p>test</p>",
