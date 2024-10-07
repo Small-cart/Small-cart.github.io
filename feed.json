@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "http://www.gczxtgx.top/test.html",
-            "url": "http://www.gczxtgx.top/test.html",
+            "id": "http://www.gczxtgx.top/test/",
+            "url": "http://www.gczxtgx.top/test/",
             "title": "test",
             "summary": "test",
             "content_html": "<p>test</p>",
