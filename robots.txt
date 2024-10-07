@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Small-cart.github.io/sitemap.xml
