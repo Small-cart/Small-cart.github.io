@@ -3,7 +3,7 @@
     <title>TGX</title>
     <link href="https://www.gczxtgx.top/feed.xml" rel="self" />
     <link href="https://www.gczxtgx.top" />
-    <updated>2024-10-07T10:32:00+08:00</updated>
+    <updated>2024-10-07T10:43:32+08:00</updated>
     <author>
         <name>zza</name>
     </author>
@@ -111,15 +111,18 @@
         </author>
         <link href="https://www.gczxtgx.top/test/"/>
         <id>https://www.gczxtgx.top/test/</id>
+        <media:content url="https://www.gczxtgx.top/media/posts/1/b_0199021eef6372015a5469fd34303300.jpg" medium="image" />
 
         <updated>2024-10-07T10:05:20+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.gczxtgx.top/media/posts/1/b_0199021eef6372015a5469fd34303300.jpg" alt="" />
                     [九省联考 2018] 一双木棋 chess 题目描述 菲菲和牛牛在一块 $n$ 行 $m$ 列的棋盘上下棋，菲菲执黑棋先手，牛牛执白棋后手。 棋局开始时，棋盘上没有任何棋子，两人轮流在格子上落子，直到填满棋盘时结束。 落子的规则是：一个格子可以落子当且仅当这个格子内没有棋子且这个格子的左侧及上方的所有格子内都有棋子。 棋盘的每个格子上，都写有两个非负整数，从上到下第 $i$ 行中从左到右第 $j$ 列的格子上的两个整数记作 $a_{i,j}$ 和 $b_{i,j}$。&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://www.gczxtgx.top/media/posts/1/b_0199021eef6372015a5469fd34303300.jpg" class="type:primaryImage" alt="" /></p>
                 <h1 id="九省联考-2018-一双木棋-chess">[九省联考 2018] 一双木棋 chess</h1>
 <h2 id="题目描述">题目描述</h2>
 <p>菲菲和牛牛在一块 $n$ 行 $m$ 列的棋盘上下棋，菲菲执黑棋先手，牛牛执白棋后手。</p><p>棋局开始时，棋盘上没有任何棋子，两人轮流在格子上落子，直到填满棋盘时结束。  </p><p>落子的规则是：一个格子可以落子当且仅当这个格子内没有棋子且这个格子的左侧及上方的所有格子内都有棋子。</p><p>棋盘的每个格子上，都写有两个非负整数，从上到下第 $i$ 行中从左到右第 $j$ 列的格子上的两个整数记作 $a_{i,j}$ 和 $b_{i,j}$。</p><p>在游戏结束后，菲菲和牛牛会分别计算自己的得分：菲菲的得分是所有有黑棋的格子上的 $a_{i,j}$ 之和，牛牛的得分是所有有白棋的格子上的 $b_{i,j}$ 的和。</p><p>菲菲和牛牛都希望，自己的得分减去对方的得分得到的结果最大。现在他们想知道，在给定的棋盘上，如果双方都采用最优策略且知道对方会采用最优策略，那么，最终的结果如何？</p><h2 id="输入格式">输入格式</h2>
