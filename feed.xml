@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>TGX</title>
-    <link href="https://Small-cart.github.io/feed.xml" rel="self" />
-    <link href="https://Small-cart.github.io" />
+    <link href="https://www.gczxtgx.top/feed.xml" rel="self" />
+    <link href="https://www.gczxtgx.top" />
     <updated>2024-10-07T10:05:20+08:00</updated>
     <author>
         <name>zza</name>
     </author>
-    <id>https://Small-cart.github.io</id>
+    <id>https://www.gczxtgx.top</id>
 
     <entry>
         <title>test</title>
         <author>
             <name>zza</name>
         </author>
-        <link href="https://Small-cart.github.io/test/"/>
-        <id>https://Small-cart.github.io/test/</id>
+        <link href="https://www.gczxtgx.top/test/"/>
+        <id>https://www.gczxtgx.top/test/</id>
 
         <updated>2024-10-07T10:05:20+08:00</updated>
             <summary>
